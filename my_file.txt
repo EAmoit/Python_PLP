@@ -1,0 +1,5 @@
+Hello World, I am Python.
+Sum = 5 + 5.
+Bye, World.
+Hello, I am back.
+Multiply = 10 * 6.
